@@ -1,7 +1,7 @@
-const CACHE_NAME = 'tarot-score-v1';
+const CACHE_NAME = 'tarot-score-v2';
 const ASSETS = [
-  '/',
-  '/index.html'
+  './',
+  './index.html'
 ];
 
 self.addEventListener('install', event => {
