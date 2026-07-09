@@ -1,0 +1,19 @@
+{
+  "name": "Tarot Score",
+  "short_name": "Tarot",
+  "description": "Compteur de points pour le jeu de Tarot",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0a1a",
+  "theme_color": "#0d0a1a",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%230d0a1a'/%3E%3Ctext y='.9em' font-size='80' x='10'%3E%F0%9F%83%8F%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
